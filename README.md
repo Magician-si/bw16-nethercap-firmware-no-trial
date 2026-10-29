@@ -17,7 +17,6 @@ BW16 / RTL8720DN only.
 
 按教程图选文件，进下载模式，点 START FLASHING。刷完打开 `8.8.8.8`。
 
-固件文件不在本仓库内。
 
 捐赠（自愿，金额随意）
 - EVM (ETH / BNB): `0x0c230520e1419b1ccd2e54db80d15ae70edada9d`
