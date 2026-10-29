@@ -35,7 +35,6 @@ Web flasher: https://nethercap-web-flasher-v2.vercel.app
 
 Follow the tutorial image, enter download mode, click START FLASHING. After flashing, open `8.8.8.8`.
 
-Firmware binaries are not included in this repository.
 
 Donations (voluntary, any amount)
 - EVM (ETH / BNB): `0x0c230520e1419b1ccd2e54db80d15ae70edada9d`
